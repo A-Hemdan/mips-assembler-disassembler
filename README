@@ -1,0 +1,26 @@
+This is a simple MIPS assembler and disassembler project implemented in Python.
+
+Prerequisites:
+
+- PyParsing:
+  http://pyparsing.wikispaces.com
+  
+- Bitstring:
+  https://pypi.python.org/pypi/bitstring
+
+How To Use:
+
+- Create a text file containing your assembly/machine code
+
+- Run assembler.py/disassembler.py
+
+- An output text file will be created in the same directory containing
+  the assembled/disassmbled code
+
+  
+Notes:
+
+- Not all instructions are implemented, but more can be added easily
+
+- Code structure and documentation can be improved drastically, but it 
+  just works like it should for now
